@@ -1,2 +1,4 @@
 run
 venv
+.virtual_documents
+src/.ipynb_checkpoints
