@@ -2,3 +2,5 @@ run
 venv
 .virtual_documents
 src/.ipynb_checkpoints
+nbdev
+src/index.ipynb
